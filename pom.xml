@@ -11,7 +11,7 @@
 	</parent>
 
 	<groupId>voomp.shantanu</groupId>
-	<artifactId>security-tracking-api</artifactId>
+	<artifactId>portfolio-tracking-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>security-tracking-api</name>
 	<description>A REST API to track trading portfolios</description>
