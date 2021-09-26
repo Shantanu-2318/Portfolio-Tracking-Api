@@ -12,7 +12,7 @@ import java.util.List;
 
 @Slf4j
 @RestController
-@RequestMapping("/Security-tracker-api")
+@RequestMapping("/portfolio-tracker-api")
 public class SecurityRest {
 
     // == Private Fields ==
